@@ -4,12 +4,7 @@ import { getFirestore, collection, getDocs, addDoc } from "https://www.gstatic.c
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBfiDqQMTxDyNM_zZV6zFLKqUBNJ4Rdyqw",
-  authDomain: "my-todos-df183.firebaseapp.com",
-  projectId: "my-todos-df183",
-  storageBucket: "my-todos-df183.appspot.com",
-  messagingSenderId: "878205504047",
-  appId: "1:878205504047:web:286e07886f16be1f1a94da"
+    // Här ska din konfiguration ligga
 };
 
 // Initialize Firebase
