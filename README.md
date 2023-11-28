@@ -32,3 +32,8 @@ Det ska även på din sida gå och se highscorelistan.
 Firebase: https://firebase.google.com/
 
 Dokumentation för Firestore databas: https://firebase.google.com/docs/firestore/manage-data/add-data#web-modular-api_1
+
+## Video
+
+Denna video förklarar hur Firestore fungerar och hur man kan tänka: https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB 
+(De andra filmerna i spellistan är lite föråldrade så kolla inte dem.)
