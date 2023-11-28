@@ -6,6 +6,8 @@ Skapa ett Firebaseprojekt och konfigurera upp er applikation så den ansluts mot
 
 Tutorial: https://firebase.google.com/docs/web/setup?authuser=0&hl=en#create-firebase-project-and-app (**Du behöver enbart göra steg 1: Create a Firebase project and register your app**).
 
+Tutorial för att sätta upp en databas: https://firebase.google.com/docs/firestore/quickstart#web-modular-api (Du kan följa enbart första steget **Create a Cloud Firestore database**).
+
 Använd detta script för att interagera med databasen (här finns också alla metoder du behöver importera):
 
 `import { getFirestore, collection, getDocs, addDoc } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-firestore.js";`
@@ -28,3 +30,5 @@ Det ska även på din sida gå och se highscorelistan.
 ## Artiklar
 
 Firebase: https://firebase.google.com/
+
+Dokumentation för Firestore databas: https://firebase.google.com/docs/firestore/manage-data/add-data#web-modular-api_1
